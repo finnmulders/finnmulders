@@ -1,8 +1,15 @@
-<heading>Dit ben ik<heading/>
 
-<br>- Hallo ik ben Finn Mulders!<br>
-<br>- Ik hou van voetbal<br>
-<br>- Ik hou van gamen<br>
-<br>- Ik hou van vissen<br>
 
-Ik zit op school op het pierson in A2B.
+ Hallo ik ben Finn Mulders!
+<h1> Voetbal</h1>
+  Ik zit op voetbal bij OJC Rosmalen in de Jo15-1.
+  Ik voetbal al vanaf dat ik 4 jaar ben bij OJC.
+
+  <h1>Gamen</h1>
+  Ik speel graag games op mijn Xbox.
+  Mijn favoriete game is Fifa 21.
+    
+<h1> Vissen</h1>
+  Ik vis graag op de Aa of in de visvijver in vinkel.
+  
+
