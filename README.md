@@ -1,11 +1,8 @@
 <heading>Dit ben ik<heading/>
 
-- Hallo ik ben Finn Mulders!
-- Ik hou van voetbal
-- Ik hou van gamen
-- Ik hou van vissen
-
-
-Dit zijn mijn hobby's
+<br>- Hallo ik ben Finn Mulders!<br>
+<br>- Ik hou van voetbal<br>
+<br>- Ik hou van gamen<br>
+<br>- Ik hou van vissen<br>
 
 Ik zit op school op het pierson in A2B.
